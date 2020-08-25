@@ -11,4 +11,4 @@ This repository provides the raw data and R code for data cleaning, organization
 
 <i>02_Goodson_faunal_analyses</i>: This script requires and reads <i>Goodson_cleaned.RData</i>. It analyzes spatial patterns in burning and fragmentation, taxonomic richness, and an artiodactyl index (Artiodactyla_NISP/[Artiodactyla_NISP + Lagomorpha_NISP]). It outputs figures summarizing results to the subdirectory <i>working directory/Figures</i>.
 
-<i>02_Goodson_deer_element_analyses</i>: This script requires and reads <i>Goodson_cleaned.RData</i>. It examines the relationships between deer element representation and several predictors (bone density and dietary utility indices). It outputs figures summarizing results to the subdirectory <i>working directory/Figures</i>.
+<i>03_Goodson_deer_element_analyses</i>: This script requires and reads <i>Goodson_cleaned.RData</i>. It examines the relationships between deer element representation and several predictors (bone density and dietary utility indices). It outputs figures summarizing results to the subdirectory <i>working directory/Figures</i>.
